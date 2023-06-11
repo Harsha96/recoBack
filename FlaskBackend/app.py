@@ -104,6 +104,9 @@ def protected():
 # Load the trained model
 with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
+# Load preprocessor
+with open('preprocessor.pkl', 'rb') as f:
+    preprocessor = pickle.load(f)
 # Get the unique degree labels from the dataset
 unique_labels = ["Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering",
 "Bachelor of Industrial Studies Honours - Agriculture",
@@ -152,27 +155,29 @@ def predict():
     X = pd.DataFrame.from_dict(data, orient='index').T
 
     # Make sure the input DataFrame has the same columns as the training data
-    X = X[['educational_factor', 'social_factor']]
+    X = X[['educational_factor', 'social_factor', 'stream']]
+
+    # Apply preprocessing to the input data
+    input_processed = preprocessor.transform(X)
 
     # Make predictions using the loaded model
-    probabilities = model.predict_proba(X)[0]
+    probabilities = model.predict_proba(input_processed)[0]
 
     # Get the unique degree labels
     unique_labels = model.classes_
 
-    # Find the index of the degree with the highest probability
-    max_prob_index = np.argmax(probabilities)
+    # Create a list of predicted probabilities for each degree
+    predicted_probs = []
+    for degree, prob in zip(unique_labels, probabilities):
+        predicted_probs.append({'Degree': degree, 'Probability': float(prob)})
 
-    # Get the most suitable degree and its corresponding probability
-    most_suitable_degree = unique_labels[max_prob_index]
-    probability = probabilities[max_prob_index]
+    # Print the predicted probabilities for each degree
+    print("Predicted Probabilities:")
+    for degree_prob in predicted_probs:
+        print(f"Degree: {degree_prob['Degree']}, Probability: {degree_prob['Probability']:.4f}")
 
     # Return the most suitable degree and its probability as a JSON response
-    return jsonify({'Degree': most_suitable_degree, 
-                    # 'Probability': probability
-                    })
-
-
+    return jsonify(predicted_probs)
 
 # Logout endpoint
 @app.route('/logout', methods=['POST'])
