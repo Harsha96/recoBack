@@ -1,0 +1,1000 @@
+id,educational_factor,social_factor,degree
+1,8.3,4.7,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+2,7.6,5.2,Bachelor of Industrial Studies Honours - Agriculture
+3,6.7,4.1,Bachelor of Software Engineering Honours
+4,6.5,5.1,Bachelor of Technology - Electronic and Communication Engineering
+5,5.7,5.5,Bachelor of Technology - Mechanical Engineering
+6,8.2,7.7,Bachelor of Technology - Mechatronics Engineering
+7,7.8,6.8,Bachelor of Technology - Electrical Engineering
+8,7.2,5.1,Bachelor of Technology - Computer Engineering
+9,6.9,7.2,Bachelor of Technology - Civil Engineering
+10,6.1,3.3,Bachelor of Technology Honours in Engineering – Textile & Clothing
+11,8.9,7.1,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+12,7.5,6.5,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+13,6.3,5.9,Bachelor of Industrial Studies Honours – Apparel Production and Management
+14,5.8,4.5,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+15,7.1,7.3,Bachelor of Industrial Studies Honours - Agriculture
+16,6.7,6.2,Bachelor of Software Engineering Honours
+17,5.5,5.7,Bachelor of Technology - Electronic and Communication Engineering
+18,7.3,8.2,Bachelor of Technology - Mechanical Engineering
+19,6.2,5.6,Bachelor of Technology - Mechatronics Engineering
+20,8.1,6.9,Bachelor of Technology - Electrical Engineering
+21,8.5,5.4,Bachelor of Technology - Computer Engineering
+22,7.4,7.8,Bachelor of Technology - Civil Engineering
+23,6.6,4.6,Bachelor of Technology Honours in Engineering – Textile & Clothing
+24,6.4,3.8,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+25,6.8,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+26,7.9,6.1,Bachelor of Industrial Studies Honours – Apparel Production and Management
+27,6.9,6.5,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+28,7.0,7.1,Bachelor of Industrial Studies Honours - Agriculture
+29,7.2,6.8,Bachelor of Software Engineering Honours
+30,6.2,6.1,Bachelor of Technology - Electronic and Communication Engineering
+31,6.5,5.5,Bachelor of Technology - Mechanical Engineering
+32,7.9,8.1,Bachelor of Technology - Mechatronics Engineering
+33,5.8,5.6,Bachelor of Technology - Electrical Engineering
+34,6.3,6.7,Bachelor of Technology - Computer Engineering
+35,7.7,6.3,Bachelor of Technology - Civil Engineering
+36,5.6,5.9,Bachelor of Technology Honours in Engineering – Textile & Clothing
+37,7.1,7.2,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+38,6.8,6.2,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+39,6.0,6.1,Bachelor of Industrial Studies Honours – Apparel Production and Management
+40,7.4,7.1,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+41,8.7,7.9,Bachelor of Industrial Studies Honours - Agriculture
+42,6.6,5.8,Bachelor of Software Engineering Honours
+43,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+44,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+45,8.1,7.4,Bachelor of Technology - Mechatronics Engineering
+46,6.9,4.9,Bachelor of Technology - Electrical Engineering
+47,7.0,7.1,Bachelor of Technology - Computer Engineering
+48,7.2,6.8,Bachelor of Technology - Civil Engineering
+49,6.2,6.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+50,6.5,5.5,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+51,7.9,8.1,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+52,5.8,5.6,Bachelor of Industrial Studies Honours – Apparel Production and Management
+53,6.3,6.7,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+54,7.1,7.2,Bachelor of Industrial Studies Honours - Agriculture
+55,6.8,6.2,Bachelor of Software Engineering Honours
+56,6.0,6.1,Bachelor of Technology - Electronic and Communication Engineering
+57,7.4,7.1,Bachelor of Technology - Mechanical Engineering
+58,8.7,7.9,Bachelor of Technology - Mechatronics Engineering
+59,6.6,5.8,Bachelor of Technology - Electrical Engineering
+60,7.1,6.7,Bachelor of Technology - Computer Engineering
+61,6.4,4.5,Bachelor of Technology - Civil Engineering
+62,8.1,7.4,Bachelor of Technology Honours in Engineering – Textile & Clothing
+63,6.9,4.9,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+64,7.0,7.1,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+65,7.2,6.8,Bachelor of Industrial Studies Honours – Apparel Production and Management
+66,6.2,6.1,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+67,6.5,5.5,Bachelor of Industrial Studies Honours - Agriculture
+68,7.9,8.1,Bachelor of Software Engineering Honours
+69,5.8,5.6,Bachelor of Technology - Electronic and Communication Engineering
+70,6.3,6.7,Bachelor of Technology - Mechanical Engineering
+71,7.1,7.2,Bachelor of Technology - Mechatronics Engineering
+72,6.8,6.2,Bachelor of Technology - Electrical Engineering
+73,6.0,6.1,Bachelor of Technology - Computer Engineering
+74,7.4,7.1,Bachelor of Technology - Civil Engineering
+75,8.7,7.9,Bachelor of Technology Honours in Engineering – Textile & Clothing
+76,6.6,5.8,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+77,7.1,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+78,6.4,4.5,Bachelor of Industrial Studies Honours – Apparel Production and Management
+79,7.0,7.1,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+80,7.2,6.8,Bachelor of Industrial Studies Honours - Agriculture
+81,6.2,6.1,Bachelor of Software Engineering Honours
+82,6.5,5.5,Bachelor of Technology - Electronic and Communication Engineering
+83,7.9,8.1,Bachelor of Technology - Mechanical Engineering
+84,5.8,5.6,Bachelor of Technology - Mechatronics Engineering
+85,6.3,6.7,Bachelor of Technology - Electrical Engineering
+86,7.1,7.2,Bachelor of Technology - Computer Engineering
+87,6.8,6.2,Bachelor of Technology - Civil Engineering
+88,6.0,6.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+89,7.4,7.1,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+90,8.7,7.9,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+91,6.6,5.8,Bachelor of Industrial Studies Honours – Apparel Production and Management
+92,6.4,4.5,Bachelor of Industrial Studies Honours - Agriculture
+93,7.0,7.1,Bachelor of Software Engineering Honours
+94,7.2,6.8,Bachelor of Technology - Electronic and Communication Engineering
+95,6.2,6.1,Bachelor of Technology - Mechanical Engineering
+96,6.5,5.5,Bachelor of Technology - Mechatronics Engineering
+97,7.9,8.1,Bachelor of Technology - Electrical Engineering
+98,5.8,5.6,Bachelor of Technology - Computer Engineering
+99,6.3,6.7,Bachelor of Technology - Civil Engineering
+100,7.1,7.2,Bachelor of Technology Honours in Engineering – Textile & Clothing
+101,6.8,6.2,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+102,6.0,6.1,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+103,7.4,7.1,Bachelor of Industrial Studies Honours – Apparel Production and Management
+104,6.6,5.8,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+105,7.1,6.7,Bachelor of Industrial Studies Honours - Agriculture
+106,6.4,4.5,Bachelor of Software Engineering Honours
+107,7.0,7.1,Bachelor of Technology - Electronic and Communication Engineering
+108,7.2,6.8,Bachelor of Technology - Mechanical Engineering
+109,6.2,6.1,Bachelor of Technology - Mechatronics Engineering
+110,6.5,5.5,Bachelor of Technology - Electrical Engineering
+111,7.9,8.1,Bachelor of Technology - Computer Engineering
+112,5.8,5.6,Bachelor of Technology - Civil Engineering
+113,6.3,6.7,Bachelor of Technology Honours in Engineering – Textile & Clothing
+114,7.1,7.2,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+115,6.8,6.2,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+116,6.0,6.1,Bachelor of Industrial Studies Honours – Apparel Production and Management
+117,7.4,7.1,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+118,6.6,5.8,Bachelor of Industrial Studies Honours - Agriculture
+119,7.1,6.7,Bachelor of Software Engineering Honours
+120,6.4,4.5,Bachelor of Technology - Electronic and Communication Engineering
+121,7.0,7.1,Bachelor of Technology - Mechanical Engineering
+122,7.2,6.8,Bachelor of Technology - Mechatronics Engineering
+123,6.2,6.1,Bachelor of Technology - Electrical Engineering
+124,6.5,5.5,Bachelor of Technology - Computer Engineering
+125,7.9,8.1,Bachelor of Technology - Civil Engineering
+126,5.8,5.6,Bachelor of Technology Honours in Engineering – Textile & Clothing
+127,6.3,6.7,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+128,7.1,7.2,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+129,6.8,6.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+130,6.0,6.1,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+131,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+132,6.6,5.8,Bachelor of Software Engineering Honours
+133,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+134,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+135,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+136,7.2,6.8,Bachelor of Technology - Electrical Engineering
+137,6.2,6.1,Bachelor of Technology - Computer Engineering
+138,6.5,5.5,Bachelor of Technology - Civil Engineering
+139,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+140,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+141,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+142,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+143,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+144,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+145,6.6,5.8,Bachelor of Software Engineering Honours
+146,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+147,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+148,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+149,7.2,6.8,Bachelor of Technology - Electrical Engineering
+150,6.2,6.1,Bachelor of Technology - Computer Engineering
+151,6.5,5.5,Bachelor of Technology - Civil Engineering
+152,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+153,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+154,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+155,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+156,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+157,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+158,6.6,5.8,Bachelor of Software Engineering Honours
+159,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+160,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+161,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+162,7.2,6.8,Bachelor of Technology - Electrical Engineering
+163,6.2,6.1,Bachelor of Technology - Computer Engineering
+164,6.5,5.5,Bachelor of Technology - Civil Engineering
+165,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+166,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+167,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+168,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+169,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+170,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+171,6.6,5.8,Bachelor of Software Engineering Honours
+172,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+173,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+174,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+175,7.2,6.8,Bachelor of Technology - Electrical Engineering
+176,6.2,6.1,Bachelor of Technology - Computer Engineering
+177,6.5,5.5,Bachelor of Technology - Civil Engineering
+178,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+179,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+180,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+181,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+182,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+183,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+184,6.6,5.8,Bachelor of Software Engineering Honours
+185,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+186,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+187,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+188,7.2,6.8,Bachelor of Technology - Electrical Engineering
+189,6.2,6.1,Bachelor of Technology - Computer Engineering
+190,6.5,5.5,Bachelor of Technology - Civil Engineering
+191,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+192,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+193,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+194,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+195,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+196,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+197,6.6,5.8,Bachelor of Software Engineering Honours
+198,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+199,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+200,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+201,7.2,6.8,Bachelor of Technology - Electrical Engineering
+202,6.2,6.1,Bachelor of Technology - Computer Engineering
+203,6.5,5.5,Bachelor of Technology - Civil Engineering
+204,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+205,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+206,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+207,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+208,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+209,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+210,6.6,5.8,Bachelor of Software Engineering Honours
+211,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+212,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+213,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+214,7.2,6.8,Bachelor of Technology - Electrical Engineering
+215,6.2,6.1,Bachelor of Technology - Computer Engineering
+216,6.5,5.5,Bachelor of Technology - Civil Engineering
+217,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+218,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+219,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+220,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+221,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+222,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+223,6.6,5.8,Bachelor of Software Engineering Honours
+224,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+225,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+226,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+227,7.2,6.8,Bachelor of Technology - Electrical Engineering
+228,6.2,6.1,Bachelor of Technology - Computer Engineering
+229,6.5,5.5,Bachelor of Technology - Civil Engineering
+230,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+231,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+232,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+233,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+234,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+235,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+236,6.6,5.8,Bachelor of Software Engineering Honours
+237,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+238,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+239,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+240,7.2,6.8,Bachelor of Technology - Electrical Engineering
+241,6.2,6.1,Bachelor of Technology - Computer Engineering
+242,6.5,5.5,Bachelor of Technology - Civil Engineering
+243,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+244,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+245,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+246,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+247,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+248,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+249,6.6,5.8,Bachelor of Software Engineering Honours
+250,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+251,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+252,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+253,7.2,6.8,Bachelor of Technology - Electrical Engineering
+254,6.2,6.1,Bachelor of Technology - Computer Engineering
+255,6.5,5.5,Bachelor of Technology - Civil Engineering
+256,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+257,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+258,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+259,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+260,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+261,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+262,6.6,5.8,Bachelor of Software Engineering Honours
+263,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+264,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+265,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+266,7.2,6.8,Bachelor of Technology - Electrical Engineering
+267,6.2,6.1,Bachelor of Technology - Computer Engineering
+268,6.5,5.5,Bachelor of Technology - Civil Engineering
+269,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+270,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+271,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+272,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+273,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+274,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+275,6.6,5.8,Bachelor of Software Engineering Honours
+276,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+277,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+278,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+279,7.2,6.8,Bachelor of Technology - Electrical Engineering
+280,6.2,6.1,Bachelor of Technology - Computer Engineering
+281,6.5,5.5,Bachelor of Technology - Civil Engineering
+282,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+283,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+284,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+285,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+286,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+287,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+288,6.6,5.8,Bachelor of Software Engineering Honours
+289,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+290,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+291,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+292,7.2,6.8,Bachelor of Technology - Electrical Engineering
+293,6.2,6.1,Bachelor of Technology - Computer Engineering
+294,6.5,5.5,Bachelor of Technology - Civil Engineering
+295,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+296,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+297,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+298,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+299,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+300,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+301,6.6,5.8,Bachelor of Software Engineering Honours
+302,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+303,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+304,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+305,7.2,6.8,Bachelor of Technology - Electrical Engineering
+306,6.2,6.1,Bachelor of Technology - Computer Engineering
+307,6.5,5.5,Bachelor of Technology - Civil Engineering
+308,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+309,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+310,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+311,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+312,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+313,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+314,6.6,5.8,Bachelor of Software Engineering Honours
+315,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+316,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+317,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+318,7.2,6.8,Bachelor of Technology - Electrical Engineering
+319,6.2,6.1,Bachelor of Technology - Computer Engineering
+320,6.5,5.5,Bachelor of Technology - Civil Engineering
+321,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+322,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+323,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+324,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+325,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+326,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+327,6.6,5.8,Bachelor of Software Engineering Honours
+328,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+329,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+330,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+331,7.2,6.8,Bachelor of Technology - Electrical Engineering
+332,6.2,6.1,Bachelor of Technology - Computer Engineering
+333,6.5,5.5,Bachelor of Technology - Civil Engineering
+334,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+335,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+336,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+337,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+338,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+339,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+340,6.6,5.8,Bachelor of Software Engineering Honours
+341,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+342,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+343,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+344,7.2,6.8,Bachelor of Technology - Electrical Engineering
+345,6.2,6.1,Bachelor of Technology - Computer Engineering
+346,6.5,5.5,Bachelor of Technology - Civil Engineering
+347,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+348,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+349,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+350,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+351,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+352,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+353,6.6,5.8,Bachelor of Software Engineering Honours
+354,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+355,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+356,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+357,7.2,6.8,Bachelor of Technology - Electrical Engineering
+358,6.2,6.1,Bachelor of Technology - Computer Engineering
+359,6.5,5.5,Bachelor of Technology - Civil Engineering
+360,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+361,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+362,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+363,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+364,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+365,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+366,6.6,5.8,Bachelor of Software Engineering Honours
+367,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+368,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+369,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+370,7.2,6.8,Bachelor of Technology - Electrical Engineering
+371,6.2,6.1,Bachelor of Technology - Computer Engineering
+372,6.5,5.5,Bachelor of Technology - Civil Engineering
+373,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+374,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+375,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+376,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+377,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+378,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+379,6.6,5.8,Bachelor of Software Engineering Honours
+380,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+381,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+382,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+383,7.2,6.8,Bachelor of Technology - Electrical Engineering
+384,6.2,6.1,Bachelor of Technology - Computer Engineering
+385,6.5,5.5,Bachelor of Technology - Civil Engineering
+386,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+387,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+388,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+389,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+390,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+391,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+392,6.6,5.8,Bachelor of Software Engineering Honours
+393,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+394,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+395,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+396,7.2,6.8,Bachelor of Technology - Electrical Engineering
+397,6.2,6.1,Bachelor of Technology - Computer Engineering
+398,6.5,5.5,Bachelor of Technology - Civil Engineering
+399,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+400,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+401,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+402,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+403,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+404,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+405,6.6,5.8,Bachelor of Software Engineering Honours
+406,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+407,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+408,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+409,7.2,6.8,Bachelor of Technology - Electrical Engineering
+410,6.2,6.1,Bachelor of Technology - Computer Engineering
+411,6.5,5.5,Bachelor of Technology - Civil Engineering
+412,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+413,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+414,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+415,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+416,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+417,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+418,6.6,5.8,Bachelor of Software Engineering Honours
+419,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+420,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+421,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+422,7.2,6.8,Bachelor of Technology - Electrical Engineering
+423,6.2,6.1,Bachelor of Technology - Computer Engineering
+424,6.5,5.5,Bachelor of Technology - Civil Engineering
+425,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+426,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+427,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+428,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+429,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+430,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+431,6.6,5.8,Bachelor of Software Engineering Honours
+432,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+433,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+434,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+435,7.2,6.8,Bachelor of Technology - Electrical Engineering
+436,6.2,6.1,Bachelor of Technology - Computer Engineering
+437,6.5,5.5,Bachelor of Technology - Civil Engineering
+438,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+439,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+440,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+441,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+442,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+443,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+444,6.6,5.8,Bachelor of Software Engineering Honours
+445,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+446,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+447,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+448,7.2,6.8,Bachelor of Technology - Electrical Engineering
+449,6.2,6.1,Bachelor of Technology - Computer Engineering
+450,6.5,5.5,Bachelor of Technology - Civil Engineering
+451,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+452,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+453,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+454,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+455,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+456,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+457,6.6,5.8,Bachelor of Software Engineering Honours
+458,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+459,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+460,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+461,7.2,6.8,Bachelor of Technology - Electrical Engineering
+462,6.2,6.1,Bachelor of Technology - Computer Engineering
+463,6.5,5.5,Bachelor of Technology - Civil Engineering
+464,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+465,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+466,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+467,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+468,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+469,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+470,6.6,5.8,Bachelor of Software Engineering Honours
+471,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+472,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+473,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+474,7.2,6.8,Bachelor of Technology - Electrical Engineering
+475,6.2,6.1,Bachelor of Technology - Computer Engineering
+476,6.5,5.5,Bachelor of Technology - Civil Engineering
+477,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+478,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+479,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+480,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+481,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+482,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+483,6.6,5.8,Bachelor of Software Engineering Honours
+484,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+485,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+486,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+487,7.2,6.8,Bachelor of Technology - Electrical Engineering
+488,6.2,6.1,Bachelor of Technology - Computer Engineering
+489,6.5,5.5,Bachelor of Technology - Civil Engineering
+490,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+491,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+492,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+493,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+494,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+495,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+496,6.6,5.8,Bachelor of Software Engineering Honours
+497,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+498,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+499,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+500,7.2,6.8,Bachelor of Technology - Electrical Engineering
+501,6.2,6.1,Bachelor of Technology - Computer Engineering
+502,6.5,5.5,Bachelor of Technology - Civil Engineering
+503,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+504,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+505,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+506,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+507,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+508,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+509,6.6,5.8,Bachelor of Software Engineering Honours
+510,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+511,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+512,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+513,7.2,6.8,Bachelor of Technology - Electrical Engineering
+514,6.2,6.1,Bachelor of Technology - Computer Engineering
+515,6.5,5.5,Bachelor of Technology - Civil Engineering
+516,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+517,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+518,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+519,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+520,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+521,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+522,6.6,5.8,Bachelor of Software Engineering Honours
+523,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+524,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+525,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+526,7.2,6.8,Bachelor of Technology - Electrical Engineering
+527,6.2,6.1,Bachelor of Technology - Computer Engineering
+528,6.5,5.5,Bachelor of Technology - Civil Engineering
+529,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+530,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+531,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+532,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+533,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+534,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+535,6.6,5.8,Bachelor of Software Engineering Honours
+536,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+537,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+538,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+539,7.2,6.8,Bachelor of Technology - Electrical Engineering
+540,6.2,6.1,Bachelor of Technology - Computer Engineering
+541,6.5,5.5,Bachelor of Technology - Civil Engineering
+542,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+543,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+544,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+545,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+546,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+547,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+548,6.6,5.8,Bachelor of Software Engineering Honours
+549,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+550,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+551,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+552,7.2,6.8,Bachelor of Technology - Electrical Engineering
+553,6.2,6.1,Bachelor of Technology - Computer Engineering
+554,6.5,5.5,Bachelor of Technology - Civil Engineering
+555,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+556,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+557,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+558,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+559,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+560,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+561,6.6,5.8,Bachelor of Software Engineering Honours
+562,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+563,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+564,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+565,7.2,6.8,Bachelor of Technology - Electrical Engineering
+566,6.2,6.1,Bachelor of Technology - Computer Engineering
+567,6.5,5.5,Bachelor of Technology - Civil Engineering
+568,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+569,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+570,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+571,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+572,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+573,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+574,6.6,5.8,Bachelor of Software Engineering Honours
+575,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+576,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+577,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+578,7.2,6.8,Bachelor of Technology - Electrical Engineering
+579,6.2,6.1,Bachelor of Technology - Computer Engineering
+580,6.5,5.5,Bachelor of Technology - Civil Engineering
+581,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+582,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+583,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+584,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+585,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+586,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+587,6.6,5.8,Bachelor of Software Engineering Honours
+588,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+589,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+590,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+591,7.2,6.8,Bachelor of Technology - Electrical Engineering
+592,6.2,6.1,Bachelor of Technology - Computer Engineering
+593,6.5,5.5,Bachelor of Technology - Civil Engineering
+594,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+595,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+596,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+597,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+598,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+599,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+600,6.6,5.8,Bachelor of Software Engineering Honours
+601,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+602,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+603,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+604,7.2,6.8,Bachelor of Technology - Electrical Engineering
+605,6.2,6.1,Bachelor of Technology - Computer Engineering
+606,6.5,5.5,Bachelor of Technology - Civil Engineering
+607,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+608,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+609,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+610,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+611,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+612,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+613,6.6,5.8,Bachelor of Software Engineering Honours
+614,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+615,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+616,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+617,7.2,6.8,Bachelor of Technology - Electrical Engineering
+618,6.2,6.1,Bachelor of Technology - Computer Engineering
+619,6.5,5.5,Bachelor of Technology - Civil Engineering
+620,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+621,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+622,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+623,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+624,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+625,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+626,6.6,5.8,Bachelor of Software Engineering Honours
+627,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+628,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+629,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+630,7.2,6.8,Bachelor of Technology - Electrical Engineering
+631,6.2,6.1,Bachelor of Technology - Computer Engineering
+632,6.5,5.5,Bachelor of Technology - Civil Engineering
+633,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+634,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+635,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+636,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+637,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+638,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+639,6.6,5.8,Bachelor of Software Engineering Honours
+640,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+641,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+642,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+643,7.2,6.8,Bachelor of Technology - Electrical Engineering
+644,6.2,6.1,Bachelor of Technology - Computer Engineering
+645,6.5,5.5,Bachelor of Technology - Civil Engineering
+646,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+647,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+648,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+649,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+650,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+651,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+652,6.6,5.8,Bachelor of Software Engineering Honours
+653,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+654,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+655,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+656,7.2,6.8,Bachelor of Technology - Electrical Engineering
+657,6.2,6.1,Bachelor of Technology - Computer Engineering
+658,6.5,5.5,Bachelor of Technology - Civil Engineering
+659,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+660,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+661,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+662,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+663,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+664,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+665,6.6,5.8,Bachelor of Software Engineering Honours
+666,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+667,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+668,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+669,7.2,6.8,Bachelor of Technology - Electrical Engineering
+670,6.2,6.1,Bachelor of Technology - Computer Engineering
+671,6.5,5.5,Bachelor of Technology - Civil Engineering
+672,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+673,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+674,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+675,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+676,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+677,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+678,6.6,5.8,Bachelor of Software Engineering Honours
+679,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+680,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+681,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+682,7.2,6.8,Bachelor of Technology - Electrical Engineering
+683,6.2,6.1,Bachelor of Technology - Computer Engineering
+684,6.5,5.5,Bachelor of Technology - Civil Engineering
+685,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+686,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+687,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+688,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+689,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+690,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+691,6.6,5.8,Bachelor of Software Engineering Honours
+692,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+693,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+694,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+695,7.2,6.8,Bachelor of Technology - Electrical Engineering
+696,6.2,6.1,Bachelor of Technology - Computer Engineering
+697,6.5,5.5,Bachelor of Technology - Civil Engineering
+698,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+699,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+700,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+701,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+702,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+703,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+704,6.6,5.8,Bachelor of Software Engineering Honours
+705,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+706,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+707,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+708,7.2,6.8,Bachelor of Technology - Electrical Engineering
+709,6.2,6.1,Bachelor of Technology - Computer Engineering
+710,6.5,5.5,Bachelor of Technology - Civil Engineering
+711,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+712,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+713,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+714,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+715,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+716,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+717,6.6,5.8,Bachelor of Software Engineering Honours
+718,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+719,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+720,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+721,7.2,6.8,Bachelor of Technology - Electrical Engineering
+722,6.2,6.1,Bachelor of Technology - Computer Engineering
+723,6.5,5.5,Bachelor of Technology - Civil Engineering
+724,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+725,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+726,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+727,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+728,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+729,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+730,6.6,5.8,Bachelor of Software Engineering Honours
+731,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+732,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+733,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+734,7.2,6.8,Bachelor of Technology - Electrical Engineering
+735,6.2,6.1,Bachelor of Technology - Computer Engineering
+736,6.5,5.5,Bachelor of Technology - Civil Engineering
+737,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+738,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+739,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+740,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+741,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+742,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+743,6.6,5.8,Bachelor of Software Engineering Honours
+744,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+745,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+746,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+747,7.2,6.8,Bachelor of Technology - Electrical Engineering
+748,6.2,6.1,Bachelor of Technology - Computer Engineering
+749,6.5,5.5,Bachelor of Technology - Civil Engineering
+750,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+751,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+752,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+753,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+754,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+755,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+756,6.6,5.8,Bachelor of Software Engineering Honours
+757,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+758,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+759,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+760,7.2,6.8,Bachelor of Technology - Electrical Engineering
+761,6.2,6.1,Bachelor of Technology - Computer Engineering
+762,6.5,5.5,Bachelor of Technology - Civil Engineering
+763,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+764,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+765,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+766,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+767,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+768,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+769,6.6,5.8,Bachelor of Software Engineering Honours
+770,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+771,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+772,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+773,7.2,6.8,Bachelor of Technology - Electrical Engineering
+774,6.2,6.1,Bachelor of Technology - Computer Engineering
+775,6.5,5.5,Bachelor of Technology - Civil Engineering
+776,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+777,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+778,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+779,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+780,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+781,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+782,6.6,5.8,Bachelor of Software Engineering Honours
+783,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+784,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+785,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+786,7.2,6.8,Bachelor of Technology - Electrical Engineering
+787,6.2,6.1,Bachelor of Technology - Computer Engineering
+788,6.5,5.5,Bachelor of Technology - Civil Engineering
+789,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+790,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+791,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+792,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+793,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+794,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+795,6.6,5.8,Bachelor of Software Engineering Honours
+796,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+797,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+798,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+799,7.2,6.8,Bachelor of Technology - Electrical Engineering
+800,6.2,6.1,Bachelor of Technology - Computer Engineering
+801,6.5,5.5,Bachelor of Technology - Civil Engineering
+802,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+803,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+804,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+805,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+806,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+807,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+808,6.6,5.8,Bachelor of Software Engineering Honours
+809,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+810,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+811,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+812,7.2,6.8,Bachelor of Technology - Electrical Engineering
+813,6.2,6.1,Bachelor of Technology - Computer Engineering
+814,6.5,5.5,Bachelor of Technology - Civil Engineering
+815,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+816,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+817,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+818,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+819,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+820,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+821,6.6,5.8,Bachelor of Software Engineering Honours
+822,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+823,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+824,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+825,7.2,6.8,Bachelor of Technology - Electrical Engineering
+826,6.2,6.1,Bachelor of Technology - Computer Engineering
+827,6.5,5.5,Bachelor of Technology - Civil Engineering
+828,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+829,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+830,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+831,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+832,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+833,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+834,6.6,5.8,Bachelor of Software Engineering Honours
+835,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+836,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+837,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+838,7.2,6.8,Bachelor of Technology - Electrical Engineering
+839,6.2,6.1,Bachelor of Technology - Computer Engineering
+840,6.5,5.5,Bachelor of Technology - Civil Engineering
+841,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+842,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+843,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+844,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+845,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+846,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+847,6.6,5.8,Bachelor of Software Engineering Honours
+848,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+849,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+850,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+851,7.2,6.8,Bachelor of Technology - Electrical Engineering
+852,6.2,6.1,Bachelor of Technology - Computer Engineering
+853,6.5,5.5,Bachelor of Technology - Civil Engineering
+854,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+855,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+856,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+857,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+858,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+859,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+860,6.6,5.8,Bachelor of Software Engineering Honours
+861,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+862,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+863,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+864,7.2,6.8,Bachelor of Technology - Electrical Engineering
+865,6.2,6.1,Bachelor of Technology - Computer Engineering
+866,6.5,5.5,Bachelor of Technology - Civil Engineering
+867,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+868,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+869,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+870,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+871,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+872,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+873,6.6,5.8,Bachelor of Software Engineering Honours
+874,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+875,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+876,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+877,7.2,6.8,Bachelor of Technology - Electrical Engineering
+878,6.2,6.1,Bachelor of Technology - Computer Engineering
+879,6.5,5.5,Bachelor of Technology - Civil Engineering
+880,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+881,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+882,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+883,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+884,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+885,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+886,6.6,5.8,Bachelor of Software Engineering Honours
+887,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+888,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+889,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+890,7.2,6.8,Bachelor of Technology - Electrical Engineering
+891,6.2,6.1,Bachelor of Technology - Computer Engineering
+892,6.5,5.5,Bachelor of Technology - Civil Engineering
+893,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+894,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+895,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+896,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+897,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+898,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+899,6.6,5.8,Bachelor of Software Engineering Honours
+900,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+901,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+902,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+903,7.2,6.8,Bachelor of Technology - Electrical Engineering
+904,6.2,6.1,Bachelor of Technology - Computer Engineering
+905,6.5,5.5,Bachelor of Technology - Civil Engineering
+906,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+907,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+908,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+909,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+910,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+911,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+912,6.6,5.8,Bachelor of Software Engineering Honours
+913,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+914,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+915,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+916,7.2,6.8,Bachelor of Technology - Electrical Engineering
+917,6.2,6.1,Bachelor of Technology - Computer Engineering
+918,6.5,5.5,Bachelor of Technology - Civil Engineering
+919,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+920,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+921,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+922,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+923,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+924,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+925,6.6,5.8,Bachelor of Software Engineering Honours
+926,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+927,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+928,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+929,7.2,6.8,Bachelor of Technology - Electrical Engineering
+930,6.2,6.1,Bachelor of Technology - Computer Engineering
+931,6.5,5.5,Bachelor of Technology - Civil Engineering
+932,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+933,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+934,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+935,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+936,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+937,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+938,6.6,5.8,Bachelor of Software Engineering Honours
+939,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+940,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+941,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+942,7.2,6.8,Bachelor of Technology - Electrical Engineering
+943,6.2,6.1,Bachelor of Technology - Computer Engineering
+944,6.5,5.5,Bachelor of Technology - Civil Engineering
+945,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+946,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+947,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+948,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+949,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+950,6.6,5.8,Bachelor of Software Engineering Honours
+951,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+952,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+953,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+954,7.2,6.8,Bachelor of Technology - Electrical Engineering
+955,6.2,6.1,Bachelor of Technology - Computer Engineering
+956,6.5,5.5,Bachelor of Technology - Civil Engineering
+957,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+958,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+959,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+960,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+961,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+962,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+963,6.6,5.8,Bachelor of Software Engineering Honours
+964,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+965,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+966,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+967,7.2,6.8,Bachelor of Technology - Electrical Engineering
+968,6.2,6.1,Bachelor of Technology - Computer Engineering
+969,6.5,5.5,Bachelor of Technology - Civil Engineering
+970,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+971,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+972,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+973,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+974,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+975,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+976,6.6,5.8,Bachelor of Software Engineering Honours
+977,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+978,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+979,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+980,7.2,6.8,Bachelor of Technology - Electrical Engineering
+981,6.2,6.1,Bachelor of Technology - Computer Engineering
+982,6.5,5.5,Bachelor of Technology - Civil Engineering
+983,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+984,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+985,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion
+987,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
+988,7.4,7.1,Bachelor of Industrial Studies Honours - Agriculture
+989,6.6,5.8,Bachelor of Software Engineering Honours
+990,7.1,6.7,Bachelor of Technology - Electronic and Communication Engineering
+991,6.4,4.5,Bachelor of Technology - Mechanical Engineering
+992,7.0,7.1,Bachelor of Technology - Mechatronics Engineering
+993,7.2,6.8,Bachelor of Technology - Electrical Engineering
+994,6.2,6.1,Bachelor of Technology - Computer Engineering
+995,6.5,5.5,Bachelor of Technology - Civil Engineering
+996,7.9,8.1,Bachelor of Technology Honours in Engineering – Textile & Clothing
+997,5.8,5.6,Bachelor of Industrial Studies Honours – Textile Manufacture Specialization
+998,6.3,6.7,Bachelor of Industrial Studies Honours – Fashion Design and Product Development
+999,7.1,7.2,Bachelor of Industrial Studies Honours – Apparel Production and Management
+1000,6.8,6.2,Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering
