@@ -14,7 +14,10 @@ app = Flask(__name__)
 CORS(app)
 
 app.config['JWT_SECRET_KEY'] = 'eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTY4MTM5MDc2NywiaWF0IjoxNjgxMzkwNzY3fQ.ySbTok2__5tOXTzP2I9AE8pAqDOgapotbsPX7r-I-ts'
+from datetime import timedelta
 
+# Set the expiration time for the access token (e.g., 30 minutes)
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(minutes=50)
 bcrypt = Bcrypt(app)
 jwt = JWTManager(app)
 
