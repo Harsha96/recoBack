@@ -338,7 +338,40 @@ def delete_user_code(email):
 
     # Update the user in the database
     users_collection.update_one({'email': email}, {'$set': user})
-
     return jsonify({'message': 'User updated successfully'}), 200
+
+degree_collection = db['degree']  # Replace with your collection name
+@app.route('/update-degree/<email>', methods=['POST'])
+@jwt_required()
+def update_user_degree(email):
+    # Get the data from the request
+    data = request.get_json()
+
+    # Find the user by email
+    user = users_collection.find_one({'email': email})
+    if not user:
+        return jsonify({'message': 'User not found'}), 404
+
+    # Extract the degree from the data
+    degree = data.get('degree')
+
+    # Update the user's degree in the database
+    users_collection.update_one({'email': email}, {'$set': {'degree': degree}})
+
+    return jsonify({'message': 'Degree updated successfully'}), 200
+
+@app.route('/degree/<name>', methods=['GET'])
+@jwt_required()
+def get_degree(name):
+    # Find the course by course code in the database
+    degree = degree_collection.find_one({'name': name})
+
+    if degree:
+        # Course found, return the course details
+        return jsonify(degree)
+    else:
+        # Course not found, return an error message
+        return jsonify({'message': 'Degree not found'}), 404
+
 if __name__ == '__main__':
     app.run(debug=True)
