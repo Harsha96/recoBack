@@ -372,6 +372,43 @@ def get_degree(name):
     else:
         # Course not found, return an error message
         return jsonify({'message': 'Degree not found'}), 404
+# Load the trained model
+with open('decision_tree_model.pkl', 'rb') as file:
+    clf = pickle.load(file)
 
+# Create a dictionary to map degree labels to their corresponding codes
+degree_mapping = {0: "Bachelor's", 1: "Master's", 2: 'PhD',3:'33',4:'44',5:'55',6:'66'
+                  ,7:'777',8:'8',9:'9',10:'10',11:'11',12:'12'
+                  }
+
+@app.route('/advance/degree', methods=['POST'])
+@jwt_required()
+def advance_degree():
+     # Get the input data from the request
+    input_data = request.get_json()
+
+    # Create a list to store the converted input data
+    converted_input = []
+
+    # Convert the input data format to match the expected format
+    converted_input.append({key: value[0] for key, value in input_data.items()})
+
+    # Create a dataframe from the converted input data
+    input_df = pd.DataFrame(converted_input)
+
+    # Make predictions on the input data using the trained model
+    predictions = clf.predict(input_df)
+    probabilities = clf.predict_proba(input_df)
+
+    # Convert the predicted labels and probabilities to their corresponding degree values
+    predicted_degrees = [degree_mapping[prediction] for prediction in predictions]
+
+    # Create a response dictionary with probabilities and degrees
+    response = {
+        'probabilities': probabilities.tolist(),
+        'degrees': predicted_degrees
+    }
+
+    return jsonify(response)
 if __name__ == '__main__':
     app.run(debug=True)
