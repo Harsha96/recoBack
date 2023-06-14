@@ -410,5 +410,77 @@ def advance_degree():
     }
 
     return jsonify(response)
+level3_collection = db["level3"]
+
+@app.route('/level3', methods=['GET'])
+@jwt_required()
+def get_course3():
+    # Find the course by course code in the database
+    course3 = level3_collection.find()
+
+    # Convert the cursor to a list of dictionaries
+    course_list = list(course3)
+
+    if course_list:
+        # Course found, return the course details
+        return jsonify(course_list)
+    else:
+        # Course not found, return an error message
+        return jsonify({'message': 'Courses not found'}), 404
+
+level4 = db["level4"]
+
+@app.route('/level4', methods=['GET'])
+@jwt_required()
+def get_course4():
+    # Find the course by course code in the database
+    course4 = level4.find()
+
+    # Convert the cursor to a list of dictionaries
+    course_list = list(course4)
+
+    if course_list:
+        # Course found, return the course details
+        return jsonify(course_list)
+    else:
+        # Course not found, return an error message
+        return jsonify({'message': 'Courses not found'}), 404   
+
+level5 = db["level5"]
+
+@app.route('/level5', methods=['GET'])
+@jwt_required()
+def get_course5():
+    # Find the course by course code in the database
+    course5 = level5.find()
+
+    # Convert the cursor to a list of dictionaries
+    course_list = list(course5)
+
+    if course_list:
+        print(course_list)
+        # Course found, return the course details
+        return jsonify(course_list)
+    else:
+        # Course not found, return an error message
+        return jsonify({'message': 'Courses not found'}), 404
+
+level6 = db["level6"]
+
+@app.route('/level6', methods=['GET'])
+@jwt_required()
+def get_course6():
+    # Find the course by course code in the database
+    course6 = level6.find()
+
+    # Convert the cursor to a list of dictionaries
+    course_list = list(course6)
+
+    if course_list:
+        # Course found, return the course details
+        return jsonify(course_list)
+    else:
+        # Course not found, return an error message
+        return jsonify({'message': 'Courses not found'}), 404
 if __name__ == '__main__':
     app.run(debug=True)
