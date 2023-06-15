@@ -6,9 +6,8 @@ from flask_jwt_extended import JWTManager, create_access_token, jwt_required, ge
 from pymongo import MongoClient
 from flask_cors import CORS
 import numpy as np
-# from sklearn.calibration import CalibratedClassifierCV
-# from sklearn.preprocessing import LabelEncoder
-# from sklearn.preprocessing import KBinsDiscretizer
+from degrees import Program
+
 
 app = Flask(__name__)
 CORS(app)
@@ -17,7 +16,7 @@ app.config['JWT_SECRET_KEY'] = 'eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N
 from datetime import timedelta
 
 # Set the expiration time for the access token (e.g., 30 minutes)
-app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(minutes=50)
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(minutes=150)
 bcrypt = Bcrypt(app)
 jwt = JWTManager(app)
 
@@ -55,12 +54,11 @@ def register():
         'password': hashed_password,
         'firstName': data.get('firstName', ''),
         'lastName': data.get('lastName', ''),
-        'city': data.get('city', ''),
-        'province': data.get('province', ''),
-        'registrationNumber': data.get('registrationNumber', ''),
-        'religious': data.get('religious', ''),
+        'income': data.get('income', ''),
+        'weekly_availability': data.get('weekly_availability', ''),
+        'nic': data.get('nic', ''),
+        'emp_status': data.get('emp_status', ''),
         'gender': data.get('gender', ''),
-        'working': data.get('working', False),
         'alResults': data.get('alResults', {}),
         'olResults': data.get('olResults', {}),
         'userRole': data['userRole'],
@@ -111,26 +109,27 @@ with open('model.pkl', 'rb') as f:
 with open('preprocessor.pkl', 'rb') as f:
     preprocessor = pickle.load(f)
 # Get the unique degree labels from the dataset
-unique_labels = ["Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering",
-"Bachelor of Industrial Studies Honours - Agriculture",
-"Bachelor of Software Engineering Honours"
-"Bachelor of Technology - Electronic and Communication Engineering",
-"Bachelor of Technology - Mechanical Engineering",
-"Bachelor of Technology - Mechatronics Engineering",
-"Bachelor of Technology - Electrical Engineering",
-"Bachelor of Technology - Computer Engineering",
-"Bachelor of Technology - Civil Engineering",
-"Bachelor of Technology Honours in Engineering – Textile & Clothing",
-"Bachelor of Industrial Studies Honours – Textile Manufacture Specialization",
-"Bachelor of Industrial Studies Honours – Fashion Design and Product Development",
-"Bachelor of Industrial Studies Honours – Apparel Production and Management"]
+# unique_labels = ["Bachelor of Technology (BTech) Honours in Agriculture and Plantation Engineering",
+# "Bachelor of Industrial Studies Honours - Agriculture",
+# "Bachelor of Software Engineering Honours"
+# "Bachelor of Technology - Electronic and Communication Engineering",
+# "Bachelor of Technology - Mechanical Engineering",
+# "Bachelor of Technology - Mechatronics Engineering",
+# "Bachelor of Technology - Electrical Engineering",
+# "Bachelor of Technology - Computer Engineering",
+# "Bachelor of Technology - Civil Engineering",
+# "Bachelor of Technology Honours in Engineering – Textile & Clothing",
+# "Bachelor of Industrial Studies Honours – Textile Manufacture Specialization",
+# "Bachelor of Industrial Studies Honours – Fashion Design and Product Development",
+# "Bachelor of Industrial Studies Honours – Apparel Production and Management"]
+unique_labels = [program.value for program in Program]
 
 
 # load the svm
 with open('svm_models.pkl', 'rb') as f:
     models = pickle.load(f)
     # load data
-df = pd.read_csv('course.csv')
+df = pd.read_csv('newCourses.csv')
 subject_names = df.columns[2:] 
 
 
@@ -198,12 +197,16 @@ def logout():
 def course_recommendation():
     data = request.get_json()  # Get the input data from the request
 
-    # Prepare input data for prediction
+    if 'social_factor' not in data or 'educational_factor' not in data:
+        return {'error': 'Invalid input data. Please provide social_factor and educational_factor.'}, 400
+
     social_factor = data['social_factor']
     educational_factor = data['educational_factor']
     input_data = [[social_factor, educational_factor]]
 
-    # Predict probabilities for each subject's success
+    if len(subject_names) != len(models):
+        return {'error': 'Mismatch between the number of subjects and models.'}, 500
+
     predictions = []
     for i, model in enumerate(models):
         subject_name = subject_names[i]
@@ -212,8 +215,7 @@ def course_recommendation():
             'probability': probability,
             'subject': subject_name
         })
-        
-    # Sort the predictions in descending order based on probability
+
     sorted_predictions = sorted(predictions, key=lambda x: x['probability'], reverse=True)
     return {'recommendations': sorted_predictions}
 
@@ -375,10 +377,10 @@ def get_degree(name):
 # Load the trained model
 with open('decision_tree_model.pkl', 'rb') as file:
     clf = pickle.load(file)
-
+print(unique_labels[0])
 # Create a dictionary to map degree labels to their corresponding codes
-degree_mapping = {0: "Bachelor's", 1: "Master's", 2: 'PhD',3:'33',4:'44',5:'55',6:'66'
-                  ,7:'777',8:'8',9:'9',10:'10',11:'11',12:'12'
+degree_mapping = {0: unique_labels[0], 1: unique_labels[1], 2: unique_labels[2],3:unique_labels[3],4:unique_labels[4],5:unique_labels[5],6:unique_labels[6]
+                  ,7:unique_labels[7],8:unique_labels[8],9:unique_labels[9],10:unique_labels[10],11:unique_labels[11],12:unique_labels[12]
                   }
 
 @app.route('/advance/degree', methods=['POST'])
@@ -458,7 +460,6 @@ def get_course5():
     course_list = list(course5)
 
     if course_list:
-        print(course_list)
         # Course found, return the course details
         return jsonify(course_list)
     else:
