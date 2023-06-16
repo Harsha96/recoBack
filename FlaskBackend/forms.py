@@ -28,7 +28,7 @@ class RegistrationForm(FlaskForm):
     password = PasswordField('Password', validators=[DataRequired(), EqualTo('confirm_password')])
     confirm_password = PasswordField('Confirm Password', validators=[DataRequired()])
     userRole = StringField('User Role', validators=[DataRequired()])
-    married = BooleanField('married')
+    married = StringField('married')
     birthday = DateField('Birthday', format='%Y-%m-%d', validators=[DataRequired()])
     stream = StringField('stream', validators=[DataRequired()])
     passedList = StringField('Passed List')

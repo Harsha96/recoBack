@@ -62,7 +62,7 @@ def register():
         'alResults': data.get('alResults', {}),
         'olResults': data.get('olResults', {}),
         'userRole': data['userRole'],
-        'married':data.get('married',False),
+        'married':data.get('married',''),
         'birthday': data.get('birthday', ''),
         'stream':data.get('stream',''),
         'passedList': data.get('passedList', []),
